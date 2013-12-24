@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\WindowsAppQuoteWall\PhoneApp1\Bin\Release\ApplicationIcon.png
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\WindowsAppQuoteWall\PhoneApp1\Bin\Release\Background.png
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\WindowsAppQuoteWall\PhoneApp1\Bin\Release\PhoneApp1.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\WindowsAppQuoteWall\PhoneApp1\Bin\Release\PhoneApp1.pdb
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\WindowsAppQuoteWall\PhoneApp1\Bin\Release\AppManifest.xaml
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\WindowsAppQuoteWall\PhoneApp1\Bin\Release\PhoneApp1.xap
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\WindowsAppQuoteWall\PhoneApp1\obj\Release\App.g.cs
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\WindowsAppQuoteWall\PhoneApp1\obj\Release\MainPage.g.cs
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\WindowsAppQuoteWall\PhoneApp1\obj\Release\AddQuote.g.cs
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\WindowsAppQuoteWall\PhoneApp1\obj\Release\PhoneApp1.g.resources
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\WindowsAppQuoteWall\PhoneApp1\obj\Release\PhoneApp1.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\WindowsAppQuoteWall\PhoneApp1\obj\Release\PhoneApp1.pdb
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\WindowsAppQuoteWall\PhoneApp1\obj\Release\XapCacheFile.xml
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\WindowsAppQuoteWall\PhoneApp1\obj\Release\PhoneApp1.csprojResolveAssemblyReference.cache

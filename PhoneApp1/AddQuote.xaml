@@ -1,0 +1,43 @@
+﻿<phone:PhoneApplicationPage
+    x:Class="PhoneApp1.AddQuote"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    mc:Ignorable="d"
+    shell:SystemTray.IsVisible="True">
+
+    <!--LayoutRoot is the root grid where all page content is placed-->
+    <Grid x:Name="LayoutRoot" Background="Transparent">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!--TitlePanel contains the name of the application and page title-->
+        <StackPanel Grid.Row="0" Margin="12,17,0,28">
+            <TextBlock Text="QuoteWall" Style="{StaticResource PhoneTextNormalStyle}"/>
+            <TextBlock Text="Add Quote" Margin="0,-7,0,0" Style="{StaticResource PhoneTextTitle1Style}" FontSize="45" TextAlignment="Center" FontWeight="Bold"/>
+        </StackPanel>
+
+        <!--ContentPanel - place additional content here-->
+        <Grid x:Name="ContentPanel" Grid.Row="1" Margin="14,0,10,0">
+            <ListBox x:Name="ProjectName" HorizontalAlignment="Left" Height="51" Margin="35,137,0,0" VerticalAlignment="Top" Width="387" SelectionMode="Multiple" Background="DodgerBlue"/>
+            <ListBox x:Name="QuotedBy" HorizontalAlignment="Left" Height="51" Margin="35,231,0,0" VerticalAlignment="Top" Width="387" SelectionMode="Multiple" Background="DodgerBlue"/>
+            <TextBlock x:Name="ProjectNameText" HorizontalAlignment="Left" Margin="35,99,0,0" TextWrapping="Wrap" Text="Project Name" VerticalAlignment="Top" Foreground="White" Width="199" FontWeight="Bold" FontSize="25"/>
+            <TextBlock x:Name="QuotedByText" HorizontalAlignment="Left" Margin="35,193,0,0" TextWrapping="Wrap" Text="Quoted By" VerticalAlignment="Top" RenderTransformOrigin="-1.761,0.759" Width="224" FontWeight="Bold" FontSize="25"/>
+            <TextBlock x:Name="QuoteText" HorizontalAlignment="Left" Margin="35,303,0,0" TextWrapping="Wrap" Text="Quote : " VerticalAlignment="Top" RenderTransformOrigin="-1.761,0.759" Width="224" FontWeight="Bold" FontSize="25"/>
+            <TextBox HorizontalAlignment="Left" Height="167" Margin="35,341,0,0" TextWrapping="Wrap" Text="Text Area" VerticalAlignment="Top" Width="387" TextChanged="TextBox_TextChanged_1"/>
+            <Button Content="Save" HorizontalAlignment="Left" Margin="35,508,0,0" VerticalAlignment="Top" Background="DodgerBlue"/>
+            <Button Content="Cancel" HorizontalAlignment="Left" Margin="293,508,0,0" VerticalAlignment="Top" Background="DodgerBlue"/>
+
+        </Grid>
+    </Grid>
+
+</phone:PhoneApplicationPage>

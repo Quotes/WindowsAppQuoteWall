@@ -23,7 +23,7 @@ namespace PhoneApp1
 
         private void SignIn_Click(object sender, RoutedEventArgs e)
         {
-
+            NavigationService.Navigate(new Uri("/AddQuote.xaml", UriKind.Relative));
         }
     }
 }

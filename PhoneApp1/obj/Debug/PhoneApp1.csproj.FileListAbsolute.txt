@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\WindowsAppQuoteWall\PhoneApp1\Bin\Debug\ApplicationIcon.png
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\WindowsAppQuoteWall\PhoneApp1\Bin\Debug\Background.png
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\WindowsAppQuoteWall\PhoneApp1\Bin\Debug\PhoneApp1.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\WindowsAppQuoteWall\PhoneApp1\Bin\Debug\PhoneApp1.pdb
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\WindowsAppQuoteWall\PhoneApp1\Bin\Debug\AppManifest.xaml
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\WindowsAppQuoteWall\PhoneApp1\Bin\Debug\PhoneApp1.xap
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\WindowsAppQuoteWall\PhoneApp1\obj\Debug\App.g.cs
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\WindowsAppQuoteWall\PhoneApp1\obj\Debug\MainPage.g.cs
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\WindowsAppQuoteWall\PhoneApp1\obj\Debug\AddQuote.g.cs
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\WindowsAppQuoteWall\PhoneApp1\obj\Debug\PhoneApp1.g.resources
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\WindowsAppQuoteWall\PhoneApp1\obj\Debug\PhoneApp1.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\WindowsAppQuoteWall\PhoneApp1\obj\Debug\PhoneApp1.pdb
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\WindowsAppQuoteWall\PhoneApp1\obj\Debug\XapCacheFile.xml
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\WindowsAppQuoteWall\PhoneApp1\obj\Debug\PhoneApp1.csprojResolveAssemblyReference.cache
